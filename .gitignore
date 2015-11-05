@@ -6,7 +6,6 @@ config.json
 logs
 logs/*
 .DS_Store
-run.py
 .eggs
 
 # Dont check in certificates
