@@ -1,5 +1,5 @@
 # plugin_example
-
+It would be advisable to run the following commands inside a python virtualenv to avoid "tainting" the default python environment with these modules.
 ```bash
 # Clone repo and enter folder
 git clone https://github.com/bunjiboys/plugin_example.git
