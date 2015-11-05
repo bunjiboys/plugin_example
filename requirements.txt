@@ -1,0 +1,4 @@
+pbr==1.8.1
+plugin-example-base==0.0.0
+third-party-plugin==0.0.0
+wheel==0.24.0
